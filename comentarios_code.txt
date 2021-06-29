@@ -1,0 +1,2 @@
+linea 38: {/* este scrollview contendra todos los inputs dentro de views */}
+linea 40: {/* onChange sirve para tomar el valor ingresado y guardarlo en un estado */}

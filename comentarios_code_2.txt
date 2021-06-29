@@ -1,0 +1,5 @@
+{/*aquí ya guarda los usuarios recorridos en el arreglo para ser mostrados en UsersList */} linea 26 UsersList setUsers
+
+{/*aquí extraemos los datos de la BD para luego guardarlos en un objeto y posteriormente puestos en el  */} Linea 14
+
+del usuario que estamos trallendo de firebase guardelo en el estado de react linea 21 UserDetail
